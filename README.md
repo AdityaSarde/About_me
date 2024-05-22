@@ -20,10 +20,10 @@ If you have an interesting project or concept in these areas, I am eager to lear
 
 ### 📫 How to Reach Me
 You can reach me via
-- email    :adityasarde98@gmail.com
+- email    : adityasarde98@gmail.com
 - LinkedIn : www.linkedin.com/in/aditya-sarde
 - Twitter  : @aditya_sarde
-- - GitHub   : [https://github.com/adityasarde]
+- GitHub   : [https://github.com/adityasarde]
 
   
 Feel free to contact me for prospective partnerships, or queries, or simply to network!
